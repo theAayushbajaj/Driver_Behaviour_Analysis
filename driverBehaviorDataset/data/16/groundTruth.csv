@@ -1,0 +1,20 @@
+event, start(sec), end(sec)
+"
+event_not_aggressive",2,6.5
+curve_right_aggressive,19.5,23.5
+"
+event_not_aggressive",30,33.5
+curve_right_aggressive,95,98
+curve_left_aggressive,247,251.5
+curve_left_aggressive,348.7,352.3
+event_not_aggressive,485,489
+curve_left_aggressive,496,499.5
+"
+curve_right_aggressive",587,590
+curve_left_aggressive,750,753.8
+curve_right_aggressive,840.7,844
+curve_right_aggressive,980,983.2
+curve_left_aggressive,1087.4,1090.9
+exchange_right_back,1139.8,1142
+exchange_right_back,1201,1202.9
+exchange_right_back,1211.4,1213.5
